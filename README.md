@@ -1,2 +1,2 @@
 # Online-Learning-Platform
-A simple application about Learning Platform using, Web API, EF, MS Server
+A simple Learning Platform application that is implemented by Web API, EF, MS Server, C#
