@@ -1,0 +1,6 @@
+@TryEl_HostAddress = http://localhost:5271
+
+GET {{TryEl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

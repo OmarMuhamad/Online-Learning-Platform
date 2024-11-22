@@ -1,0 +1,837 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\.gitignore",
+      "PackagePath": "staticwebassets\\.gitignore"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\Enrollments.html",
+      "PackagePath": "staticwebassets\\Enrollments.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\Photo.html",
+      "PackagePath": "staticwebassets\\Photo.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\Profile\\Enrollments.html",
+      "PackagePath": "staticwebassets\\Profile\\Enrollments.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\Profile\\Mainpage.html",
+      "PackagePath": "staticwebassets\\Profile\\Mainpage.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\Profile\\Photo.html",
+      "PackagePath": "staticwebassets\\Profile\\Photo.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\Profile\\images\\profileImages\\fcf2ae83-9ace-4e74-a7d7-72fb80a5e1f0.jpg",
+      "PackagePath": "staticwebassets\\Profile\\images\\profileImages\\fcf2ae83-9ace-4e74-a7d7-72fb80a5e1f0.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\Profile\\styles.css",
+      "PackagePath": "staticwebassets\\Profile\\styles.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\admin-dashboard.html",
+      "PackagePath": "staticwebassets\\admin-dashboard.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\combonents\\gradients\\blue.svg",
+      "PackagePath": "staticwebassets\\combonents\\gradients\\blue.svg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\combonents\\gradients\\green.svg",
+      "PackagePath": "staticwebassets\\combonents\\gradients\\green.svg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\combonents\\gradients\\head.html",
+      "PackagePath": "staticwebassets\\combonents\\gradients\\head.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\combonents\\gradients\\orange.svg",
+      "PackagePath": "staticwebassets\\combonents\\gradients\\orange.svg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\combonents\\gradients\\red.svg",
+      "PackagePath": "staticwebassets\\combonents\\gradients\\red.svg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\combonents\\head.html",
+      "PackagePath": "staticwebassets\\combonents\\head.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\combonents\\navbar\\navbar.html",
+      "PackagePath": "staticwebassets\\combonents\\navbar\\navbar.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\contacts.html",
+      "PackagePath": "staticwebassets\\contacts.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\course-details.html",
+      "PackagePath": "staticwebassets\\course-details.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\course-material.html",
+      "PackagePath": "staticwebassets\\course-material.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses.html",
+      "PackagePath": "staticwebassets\\courses.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\AWS.webp",
+      "PackagePath": "staticwebassets\\courses\\cover\\AWS.webp"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\Agile.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\Agile.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\BigData.eps",
+      "PackagePath": "staticwebassets\\courses\\cover\\BigData.eps"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\DataStructuresandAlgorithms.jpeg",
+      "PackagePath": "staticwebassets\\courses\\cover\\DataStructuresandAlgorithms.jpeg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\Fullstack.png",
+      "PackagePath": "staticwebassets\\courses\\cover\\Fullstack.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\JavaScriptEssentials.png",
+      "PackagePath": "staticwebassets\\courses\\cover\\JavaScriptEssentials.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\Nnetwork.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\Nnetwork.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\React.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\React.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\business_management.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\business_management.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\color-theory-cover.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\color-theory-cover.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\databases.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\databases.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\digital_marketing.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\digital_marketing.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\docker.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\docker.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\entrepreneurship.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\entrepreneurship.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\finance_for_managers.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\finance_for_managers.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\graphic-design-cover.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\graphic-design-cover.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\hr_essentials.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\hr_essentials.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\illustrator-cover.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\illustrator-cover.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\leadership.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\leadership.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\marketing_fundamentals.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\marketing_fundamentals.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\motion-graphics-cover.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\motion-graphics-cover.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\photoshop-cover.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\photoshop-cover.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\project_management.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\project_management.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\python.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\python.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\sales_negotiation.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\sales_negotiation.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\scrummaster.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\scrummaster.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\typography-cover.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\typography-cover.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\courses\\cover\\ui-design-cover.jpg",
+      "PackagePath": "staticwebassets\\courses\\cover\\ui-design-cover.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\404styles.css",
+      "PackagePath": "staticwebassets\\css\\404styles.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\PaymentStyle.css",
+      "PackagePath": "staticwebassets\\css\\PaymentStyle.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\admin-dashboard.css",
+      "PackagePath": "staticwebassets\\css\\admin-dashboard.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\availability-calendar.css",
+      "PackagePath": "staticwebassets\\css\\availability-calendar.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\course-material-styles.css",
+      "PackagePath": "staticwebassets\\css\\course-material-styles.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\hexagons.min.css",
+      "PackagePath": "staticwebassets\\css\\hexagons.min.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\css\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\jquerysctipttop.css",
+      "PackagePath": "staticwebassets\\css\\jquerysctipttop.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\css\\linearicons.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\css\\main.css.map"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\css\\profile-styles.css",
+      "PackagePath": "staticwebassets\\css\\profile-styles.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\about-img.png",
+      "PackagePath": "staticwebassets\\img\\about-img.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\banner-bg.png",
+      "PackagePath": "staticwebassets\\img\\banner-bg.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog-post\\b1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\b1.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog-post\\b2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\b2.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog-post\\b3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post\\b3.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\ads-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\ads-banner.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\blog-home-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-home-banner.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\cat-widget1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-widget1.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\cat-widget2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-widget2.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\cat-widget3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-widget3.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\feature-img2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img2.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\feature-img3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img3.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\feature-img4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img4.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\feature-img5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img5.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\pp1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\pp1.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\pp2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\pp2.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\pp3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\pp3.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\pp4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\pp4.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\s-img.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\s-img.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\blog\\user-info.png",
+      "PackagePath": "staticwebassets\\img\\blog\\user-info.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\courses\\course-details.jpg",
+      "PackagePath": "staticwebassets\\img\\courses\\course-details.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\courses\\trainer1.jpg",
+      "PackagePath": "staticwebassets\\img\\courses\\trainer1.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\fav.png",
+      "PackagePath": "staticwebassets\\img\\fav.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\footer-bg.png",
+      "PackagePath": "staticwebassets\\img\\footer-bg.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\header-img.png",
+      "PackagePath": "staticwebassets\\img\\header-img.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\home-banner-bg.png",
+      "PackagePath": "staticwebassets\\img\\home-banner-bg.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\i1.jpg",
+      "PackagePath": "staticwebassets\\img\\i1.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\i2.jpg",
+      "PackagePath": "staticwebassets\\img\\i2.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\i3.jpg",
+      "PackagePath": "staticwebassets\\img\\i3.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\i4.jpg",
+      "PackagePath": "staticwebassets\\img\\i4.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\i5.jpg",
+      "PackagePath": "staticwebassets\\img\\i5.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\i6.jpg",
+      "PackagePath": "staticwebassets\\img\\i6.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\i7.jpg",
+      "PackagePath": "staticwebassets\\img\\i7.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\i8.jpg",
+      "PackagePath": "staticwebassets\\img\\i8.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\next.png",
+      "PackagePath": "staticwebassets\\img\\next.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\play-btn.png",
+      "PackagePath": "staticwebassets\\img\\play-btn.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\popular-course\\p1.jpg",
+      "PackagePath": "staticwebassets\\img\\popular-course\\p1.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\popular-course\\p2.jpg",
+      "PackagePath": "staticwebassets\\img\\popular-course\\p2.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\popular-course\\p3.jpg",
+      "PackagePath": "staticwebassets\\img\\popular-course\\p3.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\popular-course\\p4.jpg",
+      "PackagePath": "staticwebassets\\img\\popular-course\\p4.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\popular-course\\sc.png",
+      "PackagePath": "staticwebassets\\img\\popular-course\\sc.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\prev.png",
+      "PackagePath": "staticwebassets\\img\\prev.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\quote.png",
+      "PackagePath": "staticwebassets\\img\\quote.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\registration-bg.png",
+      "PackagePath": "staticwebassets\\img\\registration-bg.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\testimonial\\t1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial\\t1.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\video-area-bg.png",
+      "PackagePath": "staticwebassets\\img\\video-area-bg.png"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\img\\video-img.jpg",
+      "PackagePath": "staticwebassets\\img\\video-img.jpg"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\PaymentJS.js",
+      "PackagePath": "staticwebassets\\js\\PaymentJS.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\admin-dashboard.js",
+      "PackagePath": "staticwebassets\\js\\admin-dashboard.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\auth.js",
+      "PackagePath": "staticwebassets\\js\\auth.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\course-material-scripts.js",
+      "PackagePath": "staticwebassets\\js\\course-material-scripts.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\hexagons.min.js",
+      "PackagePath": "staticwebassets\\js\\hexagons.min.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\inject.js",
+      "PackagePath": "staticwebassets\\js\\inject.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\ion.rangeSlider.js",
+      "PackagePath": "staticwebassets\\js\\ion.rangeSlider.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\manage-courses.js",
+      "PackagePath": "staticwebassets\\js\\manage-courses.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\manage-users.js",
+      "PackagePath": "staticwebassets\\js\\manage-users.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\parallax.min.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\mail.php",
+      "PackagePath": "staticwebassets\\mail.php"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\payment\\Payment.html",
+      "PackagePath": "staticwebassets\\payment\\Payment.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\payment\\PaymentJS.js",
+      "PackagePath": "staticwebassets\\payment\\PaymentJS.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\payment\\PaymentStyle.css",
+      "PackagePath": "staticwebassets\\payment\\PaymentStyle.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\payment\\styles.css",
+      "PackagePath": "staticwebassets\\payment\\styles.css"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\profile.html",
+      "PackagePath": "staticwebassets\\profile.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\scripts.js",
+      "PackagePath": "staticwebassets\\scripts.js"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\scss\\main.scss"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\scss\\theme\\_banner.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_banner.scss"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\scss\\theme\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_blog.scss"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\scss\\theme\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_elements.scss"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\scss\\theme\\_flexbox.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_flexbox.scss"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\scss\\theme\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_footer.scss"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\scss\\theme\\_home.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_home.scss"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\scss\\theme\\_predefined.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_predefined.scss"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\scss\\theme\\_reset.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_reset.scss"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_variables.scss"
+    },
+    {
+      "Id": "D:\\BackEnd_.net\\TryEl\\API\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

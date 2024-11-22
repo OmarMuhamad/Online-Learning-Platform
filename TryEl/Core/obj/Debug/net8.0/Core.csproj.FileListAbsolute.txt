@@ -1,0 +1,15 @@
+D:\BackEnd_.net\TryEl\Core\bin\Debug\net8.0\Core.deps.json
+D:\BackEnd_.net\TryEl\Core\bin\Debug\net8.0\Core.dll
+D:\BackEnd_.net\TryEl\Core\bin\Debug\net8.0\Core.pdb
+D:\BackEnd_.net\TryEl\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\BackEnd_.net\TryEl\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd_.net\TryEl\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\BackEnd_.net\TryEl\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\BackEnd_.net\TryEl\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\BackEnd_.net\TryEl\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\BackEnd_.net\TryEl\Core\obj\Debug\net8.0\Core.dll
+D:\BackEnd_.net\TryEl\Core\obj\Debug\net8.0\refint\Core.dll
+D:\BackEnd_.net\TryEl\Core\obj\Debug\net8.0\Core.pdb
+D:\BackEnd_.net\TryEl\Core\obj\Debug\net8.0\ref\Core.dll
+D:\BackEnd_.net\TryEl\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\BackEnd_.net\TryEl\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
